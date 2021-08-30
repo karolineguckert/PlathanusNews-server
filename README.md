@@ -3,9 +3,9 @@
 
 
 ### Dependencies
-- @material-ui/core: 4.11.2
-- react-icons: ^4.2.0
-- react-router-dom: 5.2.1
+- body-parser: ^1.19.0
+- pg: ^8.7.1
+- sequelize: ^6.6.5
 
 ### Instalation
 - **1.** npm install
