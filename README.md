@@ -3,7 +3,7 @@
 
 # Banco
 
-Foi usado o banco Postgree e foram criadas apenas estas duas tabelas:
+- Foi usado o banco Postgree e foram criadas apenas estas duas tabelas:
 
 
 -- Table: public.authors
