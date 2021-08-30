@@ -3,8 +3,10 @@
 
 # Banco
 
--- Table: public.authors
+Foi usado o banco Postgree e foram criadas apenas estas duas tabelas:
 
+
+-- Table: public.authors
 -- DROP TABLE public.authors;
 
 CREATE TABLE public.authors
@@ -22,8 +24,9 @@ ALTER TABLE public.authors
     OWNER to postgres;
     
     
- -- Table: public.notices
-
+    
+ 
+-- Table: public.notices
 -- DROP TABLE public.notices;
 
 CREATE TABLE public.notices
