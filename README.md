@@ -23,8 +23,7 @@ TABLESPACE pg_default;
 ALTER TABLE public.authors
     OWNER to postgres;
     
-    
-    
+##    
  
 -- Table: public.notices
 -- DROP TABLE public.notices;
