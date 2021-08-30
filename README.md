@@ -1,6 +1,6 @@
 # PlathanusNews-server
 
-
+Esse projeto foi desenvolvido para cumprir com o desafio proposto pela empresa Plathanus, e tem como objetivo desenvolver um layout para um site de noticias. Link par ao front-end:
 
 ### Dependencies
 - body-parser: ^1.19.0
